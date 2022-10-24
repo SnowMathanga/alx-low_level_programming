@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * swap int - a fn that swaps the vl of 2 numbrs
+ * swap_int - a fn that swaps the vl of 2 numbrs
  * @a: an input int
  * @b: an input int
  * Return: nothing
