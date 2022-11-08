@@ -45,7 +45,7 @@ int helper_palindrome(char *s, int len)
 	}
 	else if (*s == *(s + len - 1))
 	{
-		return (helper_palindromes(s + 1, len - 2));
+		return (helper_palindrome(s + 1, len - 2));
 	}
 	else
 	{
